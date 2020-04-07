@@ -21,8 +21,8 @@ O NYBooks é um projeto que tem o objetivo de mostrar uma lista de livros basead
 
 ## 🔖 Layout
 
-<img src="https://i.imgur.com/5QSek67.jpg" width="230px" height="500px" />
-<img src="https://i.imgur.com/gfUKcNo.jpg" width="230px" height="500px" />
+<img align="center" src="https://i.imgur.com/5QSek67.jpg" width="230px" height="500px" />
+<img align="center" src="https://i.imgur.com/gfUKcNo.jpg" width="230px" height="500px" />
 
 ## 🤔 Como contribuir
 
