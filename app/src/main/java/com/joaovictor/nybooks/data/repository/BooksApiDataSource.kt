@@ -1,11 +1,9 @@
 package com.joaovictor.nybooks.data.repository
 
-import com.joaovictor.nybooks.R
 import com.joaovictor.nybooks.data.ApiService
 import com.joaovictor.nybooks.data.BooksResult
 import com.joaovictor.nybooks.data.model.Book
 import com.joaovictor.nybooks.data.response.BookBodyResponse
-import com.joaovictor.nybooks.presentation.books.BooksViewModel
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response

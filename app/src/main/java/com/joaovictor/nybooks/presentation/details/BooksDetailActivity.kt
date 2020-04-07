@@ -2,7 +2,6 @@ package com.joaovictor.nybooks.presentation.details
 
 import android.content.Context
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.joaovictor.nybooks.R
 import com.joaovictor.nybooks.presentation.base.BaseActivity
