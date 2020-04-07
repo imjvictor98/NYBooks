@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".presentation.details.BooksDetailActivity"
+    android:orientation="vertical">
+
+    <include
+        layout="@layout/include_toolbar" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/book_details_title"
+        style="@style/MyTextViewLabel"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="10dp"
+        />
+
+    <TextView
+        android:id="@+id/book_details_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="As crônicas de nárnia e o principe Caspían"
+        android:layout_marginTop="2dp"
+        android:layout_marginStart="16dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/book_details_description"
+        android:layout_marginTop="8dp"
+        style="@style/MyTextViewLabel"
+        android:layout_marginStart="16dp"
+        />
+
+    <TextView
+        android:id="@+id/book_details_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="Um livro sobre as crônicas de nárnia"
+        android:layout_marginTop="2dp"
+        android:layout_marginStart="16dp"/>
+
+</LinearLayout>
